@@ -1,2 +1,2 @@
 # gasoil
-gas fee detected
+a new method to detect gas fee 
